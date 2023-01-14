@@ -8,6 +8,7 @@ public class FirstTests {
 
     /**
      * Tests
+     *
      * 2. Automate the provided Test Case 1 using 3 different browsers.
      * 3. Create a separate test method for each browser.
      * a. If you are using Windows, create test methods for Chrome, Firefox,
